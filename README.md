@@ -1,3 +1,6 @@
+
+<img width="400" alt="Screenshot 2024-07-04 at 04 20 20" src="https://github.com/LvivGuyOrSmth/Data-Integration-Final-Submission/assets/174476186/2cf7908b-23fe-461f-8ffa-69bf0afa876d">
+
 About Dataset
 
 
@@ -7,4 +10,3 @@ dataset link: https://archive.ics.uci.edu/dataset/162/forest+fires
 this project demonstrates the application of Hadoop MapReduce and Apache Spark in analyzing the "forestfires.csv" dataset to understand and predict forest fire occurrences. By following a structured approach to data preprocessing, integration, and advanced analytics, valuable insights have been derived that can inform forest management policies, improve firefighting strategies, and contribute to environmental sustainability efforts. The comprehensive documentation and GitHub repository provide transparency in the project's methodology, findings, and implementation details, ensuring reproducibility and scalability in similar environmental studies.
 
 Through this project, we not only enhance technical skills in big data analytics but also contribute to addressing critical environmental challenges, emphasizing the importance of data-driven approaches in mitigating the impact of forest fires.
-<img width="399" alt="Screenshot 2024-07-04 at 04 17 33" src="https://github.com/LvivGuyOrSmth/Data-Integration-Final-Submission/assets/174476186/63f44d6d-e270-4ad0-8576-f21dd1e537fd">
